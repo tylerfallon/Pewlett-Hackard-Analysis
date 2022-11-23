@@ -31,13 +31,15 @@ Here is the schema that we used to determine the relationships between employee 
 
 As the silver tsunami begins to make an impact, approximately 72,459 roles will need to be filled. This can be seen by summing up the chart below, using this query:
 
-![Pewlett3](https://github.com/tylerfallon/Pewlett-Hackard-Analysis/blob/main/Resources/querytitlecount.png?raw=true)
+![Pewlett8](https://github.com/tylerfallon/Pewlett-Hackard-Analysis/blob/main/Resources/querytitlecount.png?raw=true)
 
-![Pewlett2](https://github.com/tylerfallon/Pewlett-Hackard-Analysis/blob/main/Resources/rolescount.png?raw=true)
+![Pewlett9](https://github.com/tylerfallon/Pewlett-Hackard-Analysis/blob/main/Resources/rolescount.png?raw=true)
 
 Yes, there are more than enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. There is a need for more people to potentially receive mentoring helping to help fill all the roles. In fact, there are so many employees about to retire compared with the number of people that would need to receive mentoring, that more employees may need to be trained.  
 
+We could use the following query to allow for a broader mentorship eligibility search over the course of 5 years to find a larger pool of potential mentors to choose from, if necessary. 
 
+![Pewlett10](https://github.com/tylerfallon/Pewlett-Hackard-Analysis/blob/main/Resources/query5.png?raw=true)
 
 
 
