@@ -41,7 +41,7 @@ We could use the following query to allow for a broader mentorship eligibility s
 
 ![Pewlett10](https://github.com/tylerfallon/Pewlett-Hackard-Analysis/blob/main/Resources/query5.png?raw=true)
 
-If there were too many potential candidates for retirees, we could use this query to select only individuals born in 
+If there were too many potential candidates who were going to retire, we could use this query to select only individuals born in 1952 to better narrow down our choices.
 
 ![Pewlett11](https://github.com/tylerfallon/Pewlett-Hackard-Analysis/blob/main/Resources/query6.png?raw=true)
 
