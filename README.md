@@ -8,7 +8,7 @@ The purpose of this analysis was to
 
 Here are the results we obtained from analyzing the data:
 
-![Pewlett1](https://github.com/tylerfallon/Pewlett-Hackard_Analysis/blob/main/EmployeeDB.png?raw=true)
+![Pewlett1](https://github.com/tylerfallon/Pewlett-Hackard-Analysis/blob/main/EmployeeDB.png?raw=true)
 
 
 
